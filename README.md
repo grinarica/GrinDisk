@@ -66,4 +66,4 @@ VITE_API_URL=http://localhost:7474
 ![Profile](screenshots/profile.png)
 ![Upload](screenshots/upload.png)
 
-See more in screenshots folder
+[See more in screenshots folder](https://github.com/grinarica/GrinDisk/tree/main/screenshots)
